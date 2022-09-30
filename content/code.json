@@ -1,5 +1,5 @@
 {
-  "css": ".btn header__toggler {\n  display: none;\n}\n\n.footer {\n  background: #00d54b;\n}\n\n.header__row {\n  display: flex;\n  justify-content: center;\n}\n\n.banner {\n  max-width: 1350px;\n}",
+  "css": ".btn header__toggler {\n  display: none;\n}\n\n.footer {\n  background: #00d54b;\n}\n\n.header__row {\n  display: flex;\n  justify-content: center;\n}\n\n.banner {\n  max-width: 1350px;\n}\n\n.ecom-credits {\n  display: none !important;\n}",
   "html_head": "",
   "html_body": ""
 }
