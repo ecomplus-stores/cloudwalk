@@ -1,7 +1,7 @@
 {
   "domain": "cloudwalk.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#00ff22",
+  "primary_color": "#393939",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
