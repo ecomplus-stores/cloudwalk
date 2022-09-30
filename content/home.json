@@ -1,44 +1,5 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": [
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "https://i.vimeocdn.com/video/1412576541-34b81343deea0d8e156583d1a6e0875af5f7a1ca8c6ea24a145bcf05f4f8b842-d?mw=2000&mh=1125&q=70"
-        }
-      ]
-    },
-    {
-      "type": "custom-html",
-      "html": "<center><h5>OUR NEWEST COLLECTION</h5>\n  <b><h1>Future Nature</h1></b>\n<p>An adventurous selection of ready-to-wear-pieces spanning shirt dresses, knit cardigans, embroidered sweater vests, and ponchos, equally suited for hibernation and exploration.</p></center>\n<center><button class=\"btn btn-success btn-lg rounded\">Shop the Collection</button></center>\n\n"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "https://shop.cash.app/uploads/1/3/3/3/133366455/s617002791690663141_c22_i2_w1774.png"
-        },
-        {
-          "img": "https://shop.cash.app/uploads/1/3/3/3/133366455/s617002791690663141_c23_i4_w2108.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "https://shop.cash.app/uploads/1/3/3/3/133366455/s617002791690663141_c24_i7_w1800.gif"
-        },
-        {
-          "img": "https://shop.cash.app/uploads/1/3/3/3/133366455/s617002791690663141_c29_i2_w1800.gif"
-        }
-      ]
-    }
-  ]
+  "sections": []
 }
