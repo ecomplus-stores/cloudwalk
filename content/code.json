@@ -1,5 +1,5 @@
 {
-  "css": ".btn header__toggler {\n  display: none;\n}",
+  "css": ".btn header__toggler {\n  display: none;\n}\n\n.footer {\n  background: #00d54b;\n}",
   "html_head": "",
   "html_body": ""
 }
