@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/cloudwalk",
   "logo": "https://shop.cash.app/uploads/b/e5be63ea58181074bb1d0561efe2235f26513e9fa44441d8a4bef2694448aa94/logo_1602031449.png?width=400",
   "name": "cloudwalk",
-  "short_name": "cloudwalk",
+  "short_name": "InfinitePay Shop",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 51322,
-  "description": "cloudwalk",
+  "description": "Shop the Collection",
   "large_icon": "/img/large-icon.png"
 }
