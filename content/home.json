@@ -15,11 +15,6 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -40,6 +35,10 @@
           "img": "https://shop.cash.app/uploads/1/3/3/3/133366455/s617002791690663141_c29_i2_w1800.gif"
         }
       ]
+    },
+    {
+      "type": "custom-html",
+      "html": "<center><h5>OUR NEWEST COLLECTION</h5>\n  <b><h1>Future Nature</h1></b>\n<p>An adventurous selection of ready-to-wear-pieces spanning shirt dresses, knit cardigans, embroidered sweater vests, and ponchos, equally suited for hibernation and exploration.</p></center>\n\n"
     }
   ]
 }
