@@ -71,6 +71,17 @@
       "type": "responsive-banner",
       "img": "/img/uploads/bg_11-1-.png",
       "mobile_img": "/img/uploads/bg_11-1-.png"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-quadro-1-1-.png"
+        },
+        {
+          "img": "/img/uploads/frame-427320527.png"
+        }
+      ]
     }
   ]
 }
