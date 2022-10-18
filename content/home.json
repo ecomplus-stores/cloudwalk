@@ -1,5 +1,71 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/a1.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/a2.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/a3.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/b1.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/b2.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/b3.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/c.png",
+          "img": "/img/uploads/c.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/d1.png",
+          "img": "/img/uploads/d1.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/d2.png",
+          "img": "/img/uploads/d2.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/d3.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/e-3.png"
+        }
+      ]
+    }
+  ]
 }
