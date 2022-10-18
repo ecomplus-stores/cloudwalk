@@ -1,26 +1,26 @@
 {
   "domain": "cloudwalk.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#393939",
+  "primary_color": "#212121",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#212121",
   "repository": "ecomplus-stores/cloudwalk",
-  "logo": "/img/uploads/screenshot-2-.png",
+  "logo": "/img/uploads/infiniteshop-1.png",
   "name": "cloudwalk",
   "short_name": "InfinitePay Shop",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Poppins",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/infiniteshop-1.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#ffffff",
+  "icon": "/img/uploads/infiniteshop-1.png",
   "store_id": 51322,
   "description": "Shop the Collection",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/infiniteshop-1.png"
 }
