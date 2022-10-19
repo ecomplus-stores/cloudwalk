@@ -1,12 +1,12 @@
 {
   "domain": "infinitepay.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#212121",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#212121",
+  "bg_color": "#202124",
   "repository": "ecomplus-stores/cloudwalk",
   "logo": "/img/uploads/infiniteshop-1.png",
   "name": "InfinitePay Loja",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/infiniteshop-1.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#212121",
+  "secondary_color": "#ffffff",
   "icon": "/img/uploads/infiniteshop-1.png",
   "store_id": 51322,
   "description": "Compre nossas coleções",
