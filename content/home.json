@@ -69,8 +69,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/bg_11-1-.png",
-      "mobile_img": "/img/uploads/bg_11-1-.png"
+      "img": "/img/uploads/section.png",
+      "mobile_img": "/img/uploads/section.png"
     },
     {
       "type": "banners-grid",
