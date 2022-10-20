@@ -15,11 +15,11 @@
       "/collection?Collection",
       "/universe?Universe"
     ],
-    "random": 6,
+    "random": 2,
     "full_width": true
   },
-  "desktop_megamenu": true,
-  "search_input": true,
+  "desktop_megamenu": false,
+  "search_input": false,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
 }
