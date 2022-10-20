@@ -4,14 +4,21 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "url": "https://www.infinitepay.io/",
+        "text": "InfinitePay"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {}
+    ]
   },
   "contacts": {
     "title": "InfinitePay",
