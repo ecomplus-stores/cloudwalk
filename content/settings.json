@@ -1,7 +1,7 @@
 {
   "domain": "infinitepay.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#202124",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -9,8 +9,8 @@
   "bg_color": "#202124",
   "repository": "ecomplus-stores/cloudwalk",
   "logo": "/img/uploads/infiniteshop-1.png",
-  "name": "InfinitePay Loja",
-  "short_name": "InfinitePay Shop",
+  "name": "InfinitePay Store",
+  "short_name": "InfinitePay Store",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
