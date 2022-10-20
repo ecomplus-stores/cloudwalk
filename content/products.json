@@ -2,14 +2,14 @@
   "sections": [
     {
       "type": "product-block",
-      "enabled": false,
-      "size_guide": {
-        "image": "",
-        "title": ""
-      }
+      "enabled": true
     },
     {
       "type": "product-description",
+      "enabled": true
+    },
+    {
+      "type": "product-specifications",
       "enabled": true
     }
   ]
