@@ -11,12 +11,15 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/collection?Collection",
+      "/universe?Universe"
+    ],
     "random": 6,
     "full_width": true
   },
   "desktop_megamenu": true,
-  "search_input": false,
+  "search_input": true,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
 }
