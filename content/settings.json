@@ -8,19 +8,19 @@
   },
   "bg_color": "#202124",
   "repository": "ecomplus-stores/cloudwalk",
-  "logo": "/img/uploads/infiniteshop-1.png",
+  "logo": "/img/uploads/infinitepay-9aa3735a72abaf3d0753519ba3b86c96.png",
   "name": "InfinitePay Store",
   "short_name": "InfinitePay Store",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Poppins",
-  "favicon": "/img/uploads/infiniteshop-1.png",
+  "favicon": "/img/uploads/infinitepay-afavicon.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#ffffff",
-  "icon": "/img/uploads/infiniteshop-1.png",
+  "icon": "/img/uploads/infinitepay-9aa3735a72abaf3d0753519ba3b86c96.png",
   "store_id": 51322,
   "description": "Compre nossas coleções",
-  "large_icon": "/img/uploads/infiniteshop-1.png"
+  "large_icon": "/img/uploads/infinitepay-9aa3735a72abaf3d0753519ba3b86c96.png"
 }
