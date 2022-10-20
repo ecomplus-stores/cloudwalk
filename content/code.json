@@ -1,5 +1,5 @@
 {
-  "css": ".header {\n  background: #212121;\n  Color: #ffff\n}\n\n.header__toggler {\n  display: none;\n}\n\n.footer {\n  background: #212121;\n  Color: #ffff \n}\n\n.ecom-credits {\n  display: none !important;\n}\n\n.product__prices {\n  background: #212121;\n  Color: #ffff \n}",
+  "css": ".header {\n  background: #212121;\n  Color: #ffff\n}\n\n.header__toggler {\n  display: none;\n}\n\n.footer {\n  background: #212121;\n  Color: #ffff \n}\n\n.ecom-credits {\n  display: none !important;\n}\n\n.product__prices {\ncolor: #212121\n}",
   "html_head": "<link href=\"",
   "html_body": ""
 }
