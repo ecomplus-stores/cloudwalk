@@ -1,6 +1,9 @@
 {
   "sections": [
     {
+      "type": "page-title"
+    },
+    {
       "type": "document-banner",
       "enabled": true
     },
