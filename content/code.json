@@ -1,5 +1,5 @@
 {
-  "css": ".header {\n  background: #212121;\n  Color: #ffff\n}\n\n.page-home {\n  Background: #212121\n\n.header__toggler {\n  display: none;\n}\n\n.top-bar__nav {\n  background:#212121;\n  color: #21212121\n}\n\n.footer {\n  background: #212121;\n  Color: #ffff \n}\n\n.ecom-credits {\n  display: none !important;\n}\n\n.body {\n  background: #212121\n}\n\n.banners-grid {\n  background: #212121\n}\n\n.footer__title {\n  color: #ffff\n}\n\n.footer__credits {\n  display: none !important;\n}\n\n.header__buttons { \n  text-align: left\n}\n\n.responsive-baner {\n  width: 100%;\n  height: 20%;\n  background: #212121\n}",
+  "css": ".header {\n  background: #212121;\n  Color: #ffff\n}\n\n.page-home {\n  Background: #212121\n}\n\n.page-categories {\n    Background: #212121\n}\n    \n.header__toggler {\n  display: none;\n}\n\n.top-bar__nav {\n  background:#212121;\n  color: #21212121\n}\n\n.footer {\n  background: #212121;\n  Color: #ffff \n}\n\n.ecom-credits {\n  display: none !important;\n}\n\n.body {\n  background: #212121\n}\n\n.banners-grid {\n  background: #212121\n}\n\n.footer__title {\n  color: #ffff\n}\n\n.footer__credits {\n  display: none !important;\n}\n\n.header__buttons { \n  text-align: left\n}\n\n.responsive-baner {\n  width: 100%;\n  height: 20%;\n  background: #212121\n}",
   "html_head": "",
   "html_body": ""
 }
