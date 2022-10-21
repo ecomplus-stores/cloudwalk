@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.bf55e3578f0f26e5cac0b1ae968ed9fb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.9ac83b79b0e1dcf63a9dd84b59bacb57.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.93be89a7c836330cf3c4ac6e6377794c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a022fc8be3bf97739846a904115ad579.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.e45b19e0cb030c6e1f0b65872f0ae26b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "InfinitePay Store",
+  "short_name": "InfinitePay Store",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Compre nossas coleções",
+  "background_color": "#202124",
+  "theme_color": "#ffffff"
+}
